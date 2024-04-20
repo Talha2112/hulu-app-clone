@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import tw from "tailwind-styled-components"
-import Headeritems from './headeritems'
+import Headeritems from './Headeritems.js'
 import { HomeIcon,BadgeCheckIcon,CollectionIcon,LightningBoltIcon,SearchIcon,UserIcon
  } from '@heroicons/react/outline'
 

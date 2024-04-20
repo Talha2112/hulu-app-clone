@@ -2,10 +2,10 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import requests from '../utils/requests'
-import Header from './components/Header'
-import Headeritems from './components/headeritems'
-import Nav from './components/Nav'
-import Results from './components/Results'
+import Header from '../components/Header'
+import Headeritems from '../components/headeritems'
+import Nav from '../components/Nav'
+import Results from '../components/Results'
 import _ from 'lodash';
 
 
